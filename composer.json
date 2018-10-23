@@ -9,5 +9,8 @@
         "phpunit/dbUnit": "3.0.*",
         "moodlehq/behat-extension": "3.36.0",
         "mikey179/vfsStream": "^1.6"
-    }
+    },
+    "require":{
+    "php": "7.1.0"
+}
 }
