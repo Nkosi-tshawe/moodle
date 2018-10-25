@@ -16,7 +16,7 @@
     "ext-gd":"*",
     "ext-intl":"*",
     "ext-mbstring":"*",
-    "ext-xmlrpc":"*",
-    "ext-soap":"*"
+    "ext-xmlrpc":"*"
+
 }
 }
